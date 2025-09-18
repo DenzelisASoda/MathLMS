@@ -1,0 +1,20 @@
+:root {
+  --deepblue:  #0166FE;
+  --blue: #057BFE;
+  --white: #FEFEFC;
+  --orange: #FBB34C;
+}
+
+* {
+  font-family: Fredoka, sans-serif;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  background-image: url('./background.png');
+  margin-inline: 300px;
+  height: 100vh;
+}
