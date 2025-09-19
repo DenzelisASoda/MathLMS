@@ -10,7 +10,7 @@ export default function Cards() {
 Our Curated Assessments."/>
             <Card number="3" src="./play.svg" alt="play" heading="Play" text="Play Our Interactive Games And 
 Have Fun Practicing."/>
-            <Card number="4" src="./ai.svg" alt="AI" heading="AI?" text="With Our AI Assistant Razan, You get
+            <Card number="4" src="./ai.svg" alt="AI" heading="AI?" text="With Our AI Assistant Denny, You get
 personalised assessments and evaluations"/>
         </div>
     )

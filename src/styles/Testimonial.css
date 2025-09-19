@@ -1,0 +1,41 @@
+.testimonial-card {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: start;
+}
+
+.testimonial-card .message {
+    background-color: var(--white);
+    padding: 23px 30px;
+    border-radius: 20px;
+    border-bottom-right-radius: 140px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    color: var(--black);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.testimonial-card .message .testimonial-message {
+    font-size: 20px;
+}
+
+.testimonial-card .message .date {
+    font-weight: 300;
+}
+
+.testimonial-card .author {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 8px 15px;
+    background-color: var(--white);
+    align-self: self-start;
+    border-radius: 50px;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.25);
+}
+
+.testimonial-card .author .info .name {
+    color: var(--blue);
+}
