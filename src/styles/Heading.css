@@ -1,0 +1,7 @@
+.section-heading {
+    color: var(--white);
+    font-size: 64px;
+    text-align: center;
+    margin-block: 100px;
+    font-weight: 600;
+}

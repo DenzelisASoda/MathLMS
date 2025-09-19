@@ -1,6 +1,6 @@
 .cards {
     margin-top: 100px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 43px;
 }
