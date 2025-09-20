@@ -22,6 +22,10 @@ export default function App() {
         practicing my math all day everyday. Thank you so much for this
         platform" date="September 19, 2025" name="Prince Gyanti" school="Rolls Royce International School" />
       </div>
+      <Heading heading="Frequently Asked Questions" />
+      <div>
+        
+      </div>
     </>
   );
 }
